@@ -1,3 +1,3 @@
 # Easy-Living
-Residency Management Application.<br>
+Residency Management Application<br>
 Author - Jeet Patel
